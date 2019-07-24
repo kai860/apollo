@@ -1,0 +1,37 @@
+.h1{
+  color: white;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px
+}
+.p1{
+  color: white;
+  text-align: center;
+}
+.p2{
+  color:white;
+  text-align: center;
+}
+.p3{
+  color:white;
+  text-align: center;
+}
+.haiku{
+  color:white;
+  text-align: center;
+}
+p{
+  color:white;
+  text-align: center;
+}
+body{
+  background:grey;
+}
+div{
+  background:black;
+  border-radius: 150px 150px 150px 150px;
+}
+.div2{
+  background: darkblue;
+  border-radius: 150px 150px 150px 150px;
+}
